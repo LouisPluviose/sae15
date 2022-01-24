@@ -1,0 +1,111 @@
+2. Établir pour chaque variable le nombre de valeurs manquantes et aberrante ainsi que le pourcentage que cela représente.
+
+valeurs totales : 9 592 154 
+valeurs manquantes : 3 802 977 > 39.65 %
+mediane : none
+
+date_reference : 368 929
+valeurs manquantes : 0 > 0%
+mediane : none
+
+semaine_injection : 368 929
+valeurs manquantes : 1 > 0%
+mediane : none
+
+region_residence : 368 929
+valeurs manquantes : 1 > 0%
+mediane : none
+
+libelle_region : 368 929 
+valeurs manquantes : 6 049 > 1.64%
+mediane : none
+
+departement_residence : 368 929
+valeurs manquantes : 1 > 0%
+mediane : none
+
+libelle_departement : 368 929
+valeurs manquantes : 3 025 > 0.82%
+mediane : none
+
+population_insee : 368 929
+valeurs manquantes : 6049 > 1.64%
+mediane : 77802.5
+
+classe_age : 368 929
+valeurs manquantes : 1 > 0%
+mediane : none
+
+libelle_classe_age : 368 929
+valeurs manquantes : 1 > 0%
+mediane : none
+
+type_vaccin : 368 929
+valeurs manquantes : 1 > 0%
+mediane : none
+
+effectif_1_inj : 368 929
+valeurs manquantes : 198 372 > 53.77%
+mediane : 310.0
+
+effectif_termine : 368 929
+valeurs manquantes : 206 719 > 56.03%
+mediane : 310.0
+
+effectif_cumu_1_inj : 368 929
+valeurs manquantes : 133 158 > 36.09%
+mediane : 6420.0
+
+effectif_cumu_termine : 368 929
+valeurs manquantes : 149 591 > 40.55%
+mediane : 4880.0
+
+taux_1_inj : 368 929
+valeurs manquantes : 202 334 > 54.84%
+mediane : 0.003
+
+taux_termine : 368 929
+valeurs manquantes : 210 495 > 57.06%
+mediane : 0.003
+
+taux_cumu_1_inj : 368 929
+valeurs manquantes : 137 762 > 37.34%
+mediane : 0.059
+
+taux_cumu_termine : 368 929
+valeurs manquantes : 153 965 > 41.73%
+mediane : 0.048
+
+date : 368 929
+valeurs manquantes : 1 > 0%
+mediane : none
+
+effectif_rappel : 368 929
+valeurs manquantes : 351 876 > 95.38%
+mediane : 1380.0
+
+effectif_cumu_rappel : 368 929
+valeurs manquantes : 350 602 > 95.03%
+mediane : 4190.0
+
+effectif_rappel_parmi_eligible : 368 929
+valeurs manquantes : 352 566
+mediane : 6320.0
+
+effectif_eligible_au_rappel : 368 929
+valeurs manquantes : 284 637 > 77.15%
+mediane : 7540.0
+
+taux_rappel : 368 929
+valeurs manquantes : 352 220 > 95.47%
+mediane : 0.014
+
+taux_cumu_rappel : 368 929
+valeurs manquantes : 350 984 > 95.14%
+mediane : 0.04
+
+taux_cumu_rappeleli : 368 929
+valeurs manquantes : 352 566 > 95.56%
+mediane : 0.116
+
+Calcul de la médiane :
