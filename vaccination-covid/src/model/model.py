@@ -1,3 +1,4 @@
+from itertools import groupby
 import numpy as np
 import pandas as pd 
 import matplotlib.pyplot as plt 
@@ -31,7 +32,7 @@ def ComputeMean():
     return (mean)
 
 def ComputeMedian():
-    median = df.median()
+    median = df.groupby(by=["effectif_cumu_termine", "libelle_region = Haut-Rhin"]).median()
     return (median)    
 
 ComputeMedian
